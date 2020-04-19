@@ -3,7 +3,9 @@ The is the repo for the course for project for W266 - Natural Language Processin
 
 ## Every Answer Begins with a Question - Ask Me Another!
 Team: Anup Jha, Chitra Agastya
+
 Instructor: Mark Butler
+
 Sec: 3 (Thursday, 4pm PST)
 
 Abstract: 
