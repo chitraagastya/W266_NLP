@@ -1,0 +1,6 @@
+w266_project/data/
+w266_project/__pycache__/*.pyc
+**/.ipynb_checkpoints/
+**/*.pyc
+**/__pycache__
+
