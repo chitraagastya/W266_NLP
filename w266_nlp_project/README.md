@@ -8,5 +8,6 @@ Instructor: Mark Butler
 
 Sec: 3 (Thursday, 4pm PST)
 
-Abstract: 
+### Abstract: 
+
 Question  Answering  (QA)  is  a  difficultproblem  to  solve.   Neural  network  mod-els with memory and attention have madesome  strides  in  exhibiting  reasoning  ca-pabilities  required  for  QA.  One  such  ar-chitecture, the Dynamic Memory Network(DMN) achieved high levels of accuracyon several language tasks.   In this paper,we  assess  the  extent  to  which  the  DMNcan  answer  questions  for  a  semi-closed QA domain i.e.  predict if it is possible toanswer  a  question  in  a  given  context  af-ter the machine has analyzed the question-context pair; and where an answer is pos-sible, generate the answer to the question.
